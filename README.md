@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/laxmipriyapattanayak/age-calculator)
-- Live Site URL: (https://amazing-malabi-5b4f6c.netlify.app/))
+- Live Site URL: (https://amazing-malabi-5b4f6c.netlify.app/)
 
 ## My process
 
