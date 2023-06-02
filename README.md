@@ -56,6 +56,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [laxmipriya](https://github.com/laxmipriyapattanayak/age-calculator)
 - Frontend Mentor - [@laxmipriyapattanayak](https://www.frontendmentor.io/profile/laxmipriyapattanayak)
 
